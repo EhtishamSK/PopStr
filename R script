@@ -104,7 +104,9 @@ library(pophelper)  # For STRUCTURE plot visualization
 
 # Extract Q-matrix from the STRUCTURE results
 # slist contains the Q-matrices for different K values. Here, we select the result for K=3.
-qmatrix <- slist[[3]]
+summary(slist)
+head(slist[[18]])
+qmatrix <- slist[[18]]
 
 # Determine the predominant cluster for each individual
 # This finds the cluster with the highest probability for each individual.
