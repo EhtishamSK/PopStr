@@ -37,4 +37,4 @@ It helps determine the **optimal number of clusters (K)** and creates clean, pub
 
 **Typical Use Case**  
 Run STRUCTURE for K=2 to K=10 (with replicates). Point this script at the output folder, get optimal K + beautiful admixture plots for papers/thesis.
-Quick to adapt for other datasets — just update file paths 
+Quick to adapt for other datasets, just update file paths!! 
