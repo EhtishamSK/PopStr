@@ -1,8 +1,7 @@
 # Population Structure Analysis Pipeline
 
 **Purpose**  
-This R script processes output files from the classic **STRUCTURE** software (used in population genetics to infer genetic clusters / admixture).  
-It helps determine the **optimal number of clusters (K)** and creates clean, publication-quality bar plots showing population structure.
+This R script processes output files from the classic **STRUCTURE** software (used in population genetics to infer genetic clusters / admixture). It helps determine the **optimal number of clusters (K)** and creates clean, publication-quality bar plots showing population structure.
 
 **Main Workflow**
 
