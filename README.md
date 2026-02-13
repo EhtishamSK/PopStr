@@ -1,4 +1,4 @@
-# Summary of `script.r` – Population Structure Analysis Pipeline
+# Population Structure Analysis Pipeline
 
 **Purpose**  
 This R script processes output files from the classic **STRUCTURE** software (used in population genetics to infer genetic clusters / admixture).  
